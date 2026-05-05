@@ -50,6 +50,23 @@ if __name__ == '__main__':
     main()
 ```
 
+## Installation
+
+Install the library for local development:
+
+```bash
+pip install -e .
+```
+
+## Testing
+
+Run unit tests with:
+
+```bash
+pip install pytest
+python -m pytest tests
+```
+
 ## Notes
 
 - This library suppresses console interaction and logging output when requested.
