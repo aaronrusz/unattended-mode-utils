@@ -54,3 +54,8 @@ if __name__ == '__main__':
 
 - This library suppresses console interaction and logging output when requested.
 - It does not make a process undetectable at the OS or network level.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+See the `LICENSE` file for details.
