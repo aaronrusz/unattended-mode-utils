@@ -72,7 +72,10 @@ python -m pytest tests
 - This library suppresses console interaction and logging output when requested.
 - It does not make a process undetectable at the OS or network level.
 
+## AI Usage Disclosure
+
+Parts of this repository utilize AI coding agents for boilerplate generation, unit test expansion, and routine refactoring. All AI-generated code passes through manual QA testing and code review before merge.
+
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPLv3).
-See the `LICENSE` file for details.
+This project is licensed under the GNU General Public License v3.0 (GPLv3). See the `LICENSE` file for details.
